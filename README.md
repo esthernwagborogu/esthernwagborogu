@@ -6,6 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Esther-Nwagbrogu&label=Profile%20views&color=0e75b6&style=flat" alt="Esther-Nwagborogu" /> </p>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-esthernwagborogu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esther-nwagborogu/)](https://www.linkedin.com/in/esther-nwagborogu/)
+
 - I’m very passionate about **Data Analysis/PowerBI Project**
 
 - I infuse in life into **Data** bringing it alive

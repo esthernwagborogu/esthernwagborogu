@@ -1,6 +1,6 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hello 👋, I'm ESTHER NWAGBOROGU​</h1>
-<h3 align="center">I am an aspiring Data Analytics and  </h3>
+<h3 align="center">I am a passionate Data Analytics  </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 
 
@@ -33,7 +33,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-face&logo=macOS)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%44A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

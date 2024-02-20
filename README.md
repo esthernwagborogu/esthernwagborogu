@@ -1,6 +1,6 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hello 👋, I'm ESTHER NWAGBOROGU​</h1>
-<h3 align="center">I am a passionate Data Analytics  </h3>
+<h3 align="center">I am a passionate Data Analyst  </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 
 
@@ -9,12 +9,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-esthernwagborogu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esther-nwagborogu/)](https://www.linkedin.com/in/esther-nwagborogu/)
 
-- I’m very passionate about **Data Analysis/PowerBI Project**
+- I am very passionate about **Data Analysis/PowerBI Project**
 
 - I infuse in life into **Data** bringing it alive
   
 - 🤝 I’m currently learning **Python and R**
-
+- 
 - I love **Business (StartUp)** working with StartUps gives me the most satisfaction
 
 - In God I trust, everyone else bring your **Data** 😊

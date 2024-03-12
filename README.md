@@ -14,7 +14,6 @@
 - I infuse in life into **Data** bringing it alive
   
 - 🤝 I’m currently learning **Python and R**
-- 
 - I love **Business (StartUp)** working with StartUps gives me the most satisfaction
 
 - In God I trust, everyone else bring your **Data** 😊

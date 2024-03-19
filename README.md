@@ -8,6 +8,10 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-esthernwagborogu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esther-nwagborogu/)](https://www.linkedin.com/in/esther-nwagborogu/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achyutghosh24/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/achyut06)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/me_achyut/)
+
 
 - I am very passionate about **Data Analysis/PowerBI Project**
 

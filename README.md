@@ -6,13 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Esther-Nwagbrogu&label=Profile%20views&color=0e75b6&style=flat" alt="Esther-Nwagborogu" /> </p>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-esthernwagborogu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esther-nwagborogu/)](https://www.linkedin.com/in/esther-nwagborogu/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achyutghosh24/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/achyut06)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/me_achyut/)
-
-
+[![Gmail Badge](https://img.shields.io/badge/-esthernwagborogu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achyutghosh06@gmail.com)](mailto:achyutghosh06@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esther-nwagborogu-87b9b276/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)]([https://www.facebook.com/esther](https://www.facebook.com/esther.olatoye?mibextid=dGKdO6))
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/estherstephenikenna)
 - I am very passionate about **Data Analysis/PowerBI Project**
 
 - I infuse in life into **Data** bringing it alive

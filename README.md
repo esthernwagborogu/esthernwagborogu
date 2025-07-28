@@ -10,7 +10,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-esthernwagborogu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esthernwagborogu@gmail.com)](mailto:esthernwagborogu@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esther-nwagborogu-87b9b276/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)]([https://www.facebook.com/esther](https://www.facebook.com/esther.olatoye?mibextid=dGKdO6))
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)]((https://www.facebook.com/esther.olatoye?mibextid=dGKdO6)]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/estherstephenikenna)
 Hello🙋‍♀️, My name is Esther Nwagborogu. I am a Data Analyst. I specialize in Microsoft excel/Googlesheets, Power Bi, SQL,and Python
 
